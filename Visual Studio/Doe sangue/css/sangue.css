@@ -1,0 +1,44 @@
+html, body {
+    background-color: #00f1f1;
+    background: url('../imagens/doacao.png') no-repeat center fixed;
+    background-size: 60%;
+    
+}
+
+
+#cab {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#vida {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(173, 0, 0);
+    font-size: 40px;
+}
+
+#table {
+    width: 0;
+    height: 0;
+}
+
+#banner {
+    display: flex;
+}
+
+#main {
+    display: flex;
+    align-items: top;
+    margin: 50px;
+
+}
+
+#footer {
+    font-size: 10.5px;
+    text-align: center;
+}
+
+footer hr {
+    width: 95%;
+}

@@ -1,0 +1,90 @@
+html, body {
+    background: url('../img/Raposa.jpg') center fixed;
+    background-size: cover;
+         
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+    position: fixed;
+    max-width: 1140px;
+    position: fixed;
+    top: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 150px;
+}
+
+#ca {
+    width: 100%;
+    height: 800px;
+    z-index: 1;
+}
+
+.corpo {
+    max-width: 1140px;
+    position: fixed;
+    top: 45%;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    z-index: 1;
+ 
+    
+}
+
+.linha {
+    display: flex;
+    padding: 20px;
+}
+
+
+.botão1 {
+    border: solid 3px #ffffff;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: rgb(59, 121, 255);
+    padding: 20px 40px;
+    text-align: center;
+    max-width: 200px;
+    font-weight: bold;
+    
+}
+
+.botão2 {
+    border: solid 3px #ffffff;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: rgb(216, 53, 86);
+    padding: 20px 40px;
+    text-align: center;
+    max-width: 200px;
+    font-weight: bold;
+}
+
+.botão3 {
+    border: solid 3px #ffffff;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: rgb(31, 31, 31);
+    padding: 20px 40px;
+    text-align: center;
+    max-width: 200px;
+    font-weight: bold;
+}
+
+#coluna {
+    width: 33.333333333%;
+}
+
+#dois {
+    position: relative;
+    width: 100%;
+    background: #313131;
+    z-index: 2;
+    color: #ffffff;
+    
+}   
